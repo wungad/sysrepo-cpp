@@ -554,7 +554,7 @@ std::vector<ErrType> impl_getErrors(sr_session_ctx_s* sess)
 
     return errors;
 }
-};
+}
 
 /**
  * Retrieve all generic sysrepo errors.
